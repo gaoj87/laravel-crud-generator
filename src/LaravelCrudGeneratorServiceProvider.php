@@ -27,7 +27,7 @@ class LaravelCrudGeneratorServiceProvider extends ServiceProvider
     {
         //
         $this->commands(
-            'Funson86\LaravelCrudGenerator\Commands\CrudModel',
+            'Funson86\LaravelCrudGenerator\Commands\CrudModel'
             //'Funson86\LaravelCrudGenerator\Commands\CrudController'
         );
 
