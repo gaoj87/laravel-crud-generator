@@ -32,7 +32,7 @@ Usage:  `Command: crud-model {name} {--table=} {--prefix=}`
 example:
 
 ```Shell
-➜  php artisan crud-model  users
+➜  php artisan  crud-model Models/Users --table=users --prefix=
 ```
 
 
