@@ -1,6 +1,6 @@
 <?php
 
-namespace Funson86\LaravelCrudGenerator;
+namespace Gaoj87\LaravelCrudGenerator;
 
 
 class LumenCrudGeneratorServiceProvider extends LaravelCrudGeneratorServiceProvider

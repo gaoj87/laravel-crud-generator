@@ -1,6 +1,6 @@
 <?php
 
-namespace Funson86\LaravelCrudGenerator\Commands;
+namespace Gaoj87\LaravelCrudGenerator\Commands;
 
 use App\User;
 use Illuminate\Console\GeneratorCommand;

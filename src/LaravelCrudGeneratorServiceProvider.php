@@ -1,6 +1,6 @@
 <?php
 
-namespace Funson86\LaravelCrudGenerator;
+namespace Gaoj87\LaravelCrudGenerator;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -27,7 +27,7 @@ class LaravelCrudGeneratorServiceProvider extends ServiceProvider
     {
         //
         $this->commands(
-            'Funson86\LaravelCrudGenerator\Commands\CrudModel'
+            'Gaoj87\LaravelCrudGenerator\Commands\CrudModel'
             //'Funson86\LaravelCrudGenerator\Commands\CrudController'
         );
 
