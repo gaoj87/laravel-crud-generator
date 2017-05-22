@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Funson86\\LaravelCrudGenerator\\": "src/"
+            "Gaoj87\\LaravelCrudGenerator\\": "src/"
         }
     }
 }
