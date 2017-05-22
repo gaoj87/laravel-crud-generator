@@ -9,7 +9,8 @@
         "crud generator",
         "model generator",
         "laravel crud generator",
-        "lumen crud generator"
+        "lumen crud generator",
+        "Yii2 gii"
     ],
     "authors": [
         {
