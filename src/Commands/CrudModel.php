@@ -194,14 +194,7 @@ class CrudModel extends GeneratorCommand
     const UPDATED_AT = '{$this->timestamps['updated_at']}';
 EOD;
         } else {
-            $timestamps = <<<EOD
-/**
-     * Indicates if the model should be timestamped.
-     *
-     * @var bool
-     */
-    public $timestamps = true;
-EOD;
+            $timestamps = "";
         }
         $stub = str_replace('{{timestamps}}', $timestamps, $stub);
 
