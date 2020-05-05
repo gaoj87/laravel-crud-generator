@@ -8,7 +8,7 @@ fork from <https://github.com/funson86/laravel-crud-generator>
 
 
 
-## Installation
+## Installation a
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
 Either run
